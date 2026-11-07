@@ -196,3 +196,6 @@ This repository serves as the official landing page for Ethyrial Echoes of Yore.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Ethyrial Echoes of Yore today!**
+
+---
+**Last updated:** 2026-11-07 14:37:54 UTC
