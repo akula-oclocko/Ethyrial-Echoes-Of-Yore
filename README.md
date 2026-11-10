@@ -198,4 +198,4 @@ This repository serves as the official landing page for Ethyrial Echoes of Yore.
 **Get the most recent version of Ethyrial Echoes of Yore today!**
 
 ---
-**Last updated:** 2026-11-10 10:42:33 UTC
+**Last updated:** 2026-11-10 18:26:28 UTC
